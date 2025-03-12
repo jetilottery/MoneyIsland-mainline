@@ -1,0 +1,92 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "er {@minRTP} %",
+    "RTPrange": "er fra {@minRTP} % til {@maxRTP} %",
+    "paybackTitle": "Premieandel",
+    "paybackBody": "For dette spillet er langsiktig, teoretisk oppgitt premieandel {RTP}.",
+    "subheading": "Pris: {ticketCost}",
+    "prizeLevel": "Premienivå",
+    "prizeValue": "Premieverdi",
+    "description": "Beskrivelse",
+    "instantWin": "Umiddelbar premie",
+    "islandBonus": "Premie Øyhopping (I{lvl})",
+    "cannonBonus": "Premie Synkende Skip ",
+    "overallChances": "Det er en samlet sjanse på 1 til {odds} for å vinne en premie på hvert spill.",
+    "prizeDivision": "Premieoversikt",
+    "prizeRemaining": "Omtrentlige gjenværende premier",
+    "oddsPerPlay": "Vinnersjanse per spill"
+  },
+  "title": "Karibiske Skatter",
+  "MenuCommand": {
+    "price": "Pris",
+    "stake": "Innsats",
+    "howToPlay": "Slik Spiller Du",
+    "paytable": "Premieoversikt",
+    "close": "Lukk",
+    "audio": {
+      "sound": "Lyd",
+      "on": "På",
+      "off": "Av"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Feil: ",
+    "genericErrorText": "Det har oppstått en intern feil. AVSLUTT og start spillet på nytt."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "PRIS",
+    "ticketSelect_ticketCost": "PRIS",
+    "ticketCostPrefix": {
+      "BUY": "SPILL",
+      "TRY": "PRØVESPILL "
+    },
+    "footer_win": {
+      "BUY": "PREMIE",
+      "TRY": "PREMIE PRØVESPILL"
+    },
+    "button_buy": {
+      "BUY": "SPILL",
+      "TRY": "PRØVESPILL"
+    },
+    "button_try": "PRØVESPILL",
+    "button_continue": "FORTSETT",
+	"button_retry": "GJENTA",
+    "button_moveToMoney": "SPILL FOR EKTE PENGER",
+    "button_autoPlay": "FULLFØR",
+    "button_start": "START",
+    "button_stop": "STOPP",
+    "button_playAgain": {
+      "BUY": "SPILL IGJEN",
+      "TRY": "NYTT PRØVESPILL"
+    },
+    "button_tryAgain": "SPILL IGJEN",
+    "button_ok": "OK",
+    "button_exit": "AVSLUTT",
+    "error_button_exit": "AVSLUTT",
+    "error_title": "FEIL",
+    "message_nonWin": "BEKLAGER\nINGEN PREMIE",
+    "message_win": {
+      "BUY": "GRATULERER DU VANT!",
+      "TRY": "HADDE DETTE VÆRT ET SPILL FOR EKTE PENGER HADDE DU VUNNET"
+    },
+    "picksLeft": "Valg igjen: {0}",
+    "cannonMultipler": "+{0}x",
+    "cannonMultiplerTitle": "{0}x",
+    "cannonSummaryTotalWin": "PREMIE SYNKENDE SKIP",
+    "cannonCollect": "SAMLE INN",
+    "youWon": "PREMIE SYNKENDE SKIP {0}",
+    "howToPlay": "SLIK SPILLER DU",
+    "cannonBonus": "SYNKENDE SKIP",
+    "islandBonus": "ØYHOPPING",
+    "islandTutorial": "Velg to posisjoner på kartet for å starte søket etter mynter.\n\nSamle nok mynter til å låse opp skatten, vinne øyas premie og reis videre til neste øy.",
+    "pointsRemaining": "MYNTER FOR Å\nLÅSE OPP SKATTEN",
+    "islandSquarePoints": "MYNTER",
+    "page1": "Velg 8 av 16 kister på jakt etter skatten.\nAvdekk et premiebeløp og vinn en umiddelbar premie.\nSamle symboler for å aktivere Øyhopping eller Synkende Skip! ",
+    "page2": "Samle 3 {islandSymbol} for å aktivere Øyhopping.{line1complete}\nVelg 2 ruter på kartet til hver øy for å avdekke mynter. Samle nok mynter til å vinne øyas skatt og reis til neste øy.\nKun premien fra den siste fullførte øya tildeles. Øyhopping avsluttes når det nødvendige antallet mynter for en øy ikke samles inn, eller dersom den siste øyas premie tildeles.",
+    "page3": "Samle 3 {cannonSymbol} for å aktivere Synkende Skip.{line1complete}\n\nVelg skip for å avdekke en premie eller en multiplikator.\nAvdekk SAMLE INN for å avslutte Synkende Skip.",
+    "winUpTo": "TOPPREMIE {0}!",
+    "revealForBonus": "FINN SYMBOLER\nOG FÅ EKSTRA SJANSER TIL Å VINNE"
+  }
+}

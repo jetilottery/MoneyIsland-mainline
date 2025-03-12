@@ -1,0 +1,102 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "yra {@minRTP} %",
+        "RTPrange": "yra {@minRTP}–{@maxRTP} %",
+        "paybackTitle": "Numatoma grąža",
+        "paybackBody": "Šio žaidimo ilgalaikė teoriškai numatoma grąža yra {RTP}.",
+        "subheading": "Bilieto kaina – {ticketCost}",
+        "prizeLevel": "Prizo lygis",
+        "prizeValue": "Prizo vertė",
+        "description": "Aprašas",
+        "instantWin": "Momentinio laimėjimo prizas",
+        "islandBonus": "Salos premijos prizas (I{lvl})",
+        "cannonBonus": "Patrankos premijos prizas",
+        "overallChances": "Per kiekvieną žaidimą galimybė laimėt prizą yra 1 iš {odds}.",
+        "prizeDivision": "Prizų lygos",
+        "prizeRemaining": "Apytiksliai likę prizai",
+        "oddsPerPlay": "Žaidimo tikimybė"
+    },
+    "title": "PINIGŲ SALA",
+    "MenuCommand":
+    {
+        "price": "Kaina",
+        "stake": "Statymas",
+        "howToPlay": "Žinynas",
+        "paytable": "Išmokų lentelė",
+        "close": "Uždaryti",
+        "audio":
+        {
+            "sound": "Garsas",
+            "on": "Įjungti",
+            "off": "Išjungti"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Klaida. ",
+        "genericErrorText": "Įvyko vidinė klaida. IŠEIKITE iš žaidimo ir paleiskite jį iš naujo."
+    },
+    "Game":
+    {
+        "footer_balance": "LIKUTIS",
+        "footer_ticketCost": "BILIETO KAINA",
+        "ticketSelect_ticketCost": "BILIETO KAINA",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "DEMONSTRACIJA "
+        },
+        "footer_win":
+        {
+            "BUY": "LAIMĖJIMAS",
+            "TRY": "DEMONSTRACIJOS LAIMĖJIMAS"
+        },
+        "button_buy":
+        {
+            "BUY": "ŽAISTI",
+            "TRY": "BANDYTI"
+        },
+        "button_try": "BANDYTI",
+        "button_retry": "BANDYTI DAR KARTĄ",
+        "button_continue": "TĘSTI",
+        "button_moveToMoney": "PEREITI PRIE PINIGŲ",
+        "button_autoPlay": "LIKO RASTI MONETŲ",
+        "button_start": "PRADĖTI",
+        "button_stop": "SUSTABDYTI",
+        "button_playAgain":
+        {
+            "BUY": "ŽAISTI DAR KARTĄ",
+            "TRY": "BANDYTI DAR KARTĄ"
+        },
+        "button_tryAgain": "BANDYTI DAR KARTĄ",
+        "button_ok": "GERAI",
+        "button_exit": "IŠEITI",
+        "error_button_exit": "IŠEITI",
+        "error_title": "KLAIDA",
+        "message_nonWin": "SĖKMĖS\nKITĄ KARTĄ",
+        "message_win":
+        {
+            "BUY": "LAIMĖJIMAS",
+            "TRY": "BENDRAS DEMONSTRACIJOS LAIMĖJIMAS"
+        },
+        "picksLeft": "Likę pasirinkimai – {0}",
+        "cannonMultipler": "+{0}x",
+        "cannonMultiplerTitle": "{0}x",
+        "cannonSummaryTotalWin": "LAIMĖJIMAS",
+        "cannonCollect": "SURINKTI",
+        "youWon": "PREMIJOS LAIMĖJIMAS {0}",
+        "howToPlay": "KAIP ŽAISTI?",
+        "cannonBonus": "PATRANKOS BONUS",
+        "islandBonus": "SALOS BONUS",
+        "islandTutorial": "Rinkis 2 žemėlapio langelius ir pradėk ieškoti monetų!\n\nSurinkęs reikiamą skaičių momentų – turėsi šansą laimėti SALOS prizą!",
+        "pointsRemaining": "LIKO RASTI MONETŲ:",
+        "islandSquarePoints": "MONETOS",
+        "page1": "Pasirink 8 iš 16 skrynių ir pradėk lobio paiešką.\nIškart laimėk skrynioje paslėptą prizą.\nBONUS simboliai padės nukeliauti į BONUS žaidimo etapą.",
+        "page2": "Surink 3 ir atrakink  {islandSymbol} žaidimo etapą.{line1complete}\nSalos žemėlapyje pasirink du kvadratėlius ir pradėk ieškoti monetų. Surinkęs užtektinai monetų – laimėsi salos lobį ir keliausi į kitą salą.\n\nLaimimas tik paskutinėje saloje atrakintas prizas.\nBONUS etapas pasibaigia laimėjus paskutinės salos prizą arba nesurinkus lobio atrakinimui reikalingo monetų skaičiaus.",
+        "page3": "Surink 3 ir patek į etapą {cannonSymbol}{line1complete}\n\nPasirink laivą ir atrask piniginį prizą arba daugiklį.\nAtradus SURINKTI – baigiasi BONUS etapas",
+        "winUpTo": "LAIMĖK IKI {0}!",
+        "revealForBonus": "ATSKLEISKITE AUKSINĘ MONETĄ,\nKAD PEREITUMĖTE Į PREMIJOS ŽAIDIMĄ"
+    }
+}

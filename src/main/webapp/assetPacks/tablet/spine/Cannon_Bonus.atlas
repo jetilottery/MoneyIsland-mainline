@@ -1,0 +1,1258 @@
+
+CannonBonus.jpg
+size: 1520,814
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/CannonBG
+  rotate: false
+  xy: 2, 2
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+nonTrans/ValueMesh2
+  rotate: false
+  xy: 1444, 26
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+nonTrans/ValueMesh3
+  rotate: true
+  xy: 1444, 173
+  size: 107, 74
+  orig: 107, 74
+  offset: 0, 0
+  index: -1
+nonTrans/ValueMesh4
+  rotate: true
+  xy: 1444, 282
+  size: 145, 74
+  orig: 145, 74
+  offset: 0, 0
+  index: -1
+nonTrans/ValueMesh5
+  rotate: true
+  xy: 1444, 429
+  size: 175, 74
+  orig: 175, 74
+  offset: 0, 0
+  index: -1
+nonTrans/ValueMesh6
+  rotate: true
+  xy: 1444, 606
+  size: 206, 74
+  orig: 206, 74
+  offset: 0, 0
+  index: -1
+nonTrans/bubble
+  rotate: false
+  xy: 1444, 102
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+
+CannonBonus2.jpg
+size: 1770,2010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/CannonShot/Boom_00
+  rotate: false
+  xy: 2, 1488
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_01
+  rotate: false
+  xy: 2, 966
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_02
+  rotate: false
+  xy: 444, 1488
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_03
+  rotate: false
+  xy: 2, 444
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_04
+  rotate: false
+  xy: 444, 966
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_05
+  rotate: false
+  xy: 886, 1488
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_06
+  rotate: false
+  xy: 444, 444
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_07
+  rotate: true
+  xy: 2, 2
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_08
+  rotate: false
+  xy: 886, 966
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_09
+  rotate: false
+  xy: 1328, 1488
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_10
+  rotate: false
+  xy: 886, 444
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_11
+  rotate: true
+  xy: 524, 2
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_12
+  rotate: false
+  xy: 1328, 966
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_13
+  rotate: false
+  xy: 1328, 444
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_14
+  rotate: true
+  xy: 1046, 2
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+
+CannonBonus3.jpg
+size: 1770,2010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/CannonShot/Boom_15
+  rotate: false
+  xy: 2, 1488
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_16
+  rotate: false
+  xy: 2, 966
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_17
+  rotate: false
+  xy: 444, 1488
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_18
+  rotate: false
+  xy: 2, 444
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_19
+  rotate: false
+  xy: 444, 966
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_20
+  rotate: false
+  xy: 886, 1488
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_21
+  rotate: false
+  xy: 444, 444
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_22
+  rotate: true
+  xy: 2, 2
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_23
+  rotate: false
+  xy: 886, 966
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_24
+  rotate: false
+  xy: 1328, 1488
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_25
+  rotate: false
+  xy: 886, 444
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_26
+  rotate: true
+  xy: 524, 2
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_27
+  rotate: false
+  xy: 1328, 966
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_28
+  rotate: false
+  xy: 1328, 444
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_29
+  rotate: true
+  xy: 1046, 2
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+
+CannonBonus4.jpg
+size: 1770,2010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/CannonShot/Boom_30
+  rotate: false
+  xy: 2, 1488
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_31
+  rotate: false
+  xy: 2, 966
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_32
+  rotate: false
+  xy: 444, 1488
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_33
+  rotate: false
+  xy: 2, 444
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_34
+  rotate: false
+  xy: 444, 966
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_35
+  rotate: false
+  xy: 886, 1488
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_36
+  rotate: false
+  xy: 444, 444
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_37
+  rotate: true
+  xy: 2, 2
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_38
+  rotate: false
+  xy: 886, 966
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_39
+  rotate: false
+  xy: 1328, 1488
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_40
+  rotate: false
+  xy: 886, 444
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_41
+  rotate: true
+  xy: 524, 2
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_42
+  rotate: false
+  xy: 1328, 966
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_43
+  rotate: false
+  xy: 1328, 444
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_44
+  rotate: true
+  xy: 1046, 2
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+
+CannonBonus5.jpg
+size: 1770,2010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/CannonShot/Boom_45
+  rotate: false
+  xy: 2, 1488
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_46
+  rotate: false
+  xy: 2, 966
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_47
+  rotate: false
+  xy: 444, 1488
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_48
+  rotate: false
+  xy: 2, 444
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_49
+  rotate: false
+  xy: 444, 966
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_50
+  rotate: false
+  xy: 886, 1488
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_51
+  rotate: false
+  xy: 444, 444
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_52
+  rotate: true
+  xy: 2, 2
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_53
+  rotate: false
+  xy: 886, 966
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_54
+  rotate: false
+  xy: 1328, 1488
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_55
+  rotate: false
+  xy: 886, 444
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_56
+  rotate: true
+  xy: 524, 2
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_57
+  rotate: false
+  xy: 1328, 966
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_58
+  rotate: false
+  xy: 1328, 444
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_59
+  rotate: true
+  xy: 1046, 2
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+
+CannonBonus6.jpg
+size: 1930,1770
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/CannonShot/Boom_60
+  rotate: false
+  xy: 2, 1248
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_61
+  rotate: false
+  xy: 2, 726
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_62
+  rotate: false
+  xy: 2, 204
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_63
+  rotate: true
+  xy: 444, 1328
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_64
+  rotate: true
+  xy: 966, 1328
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_65
+  rotate: false
+  xy: 1488, 1248
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_66
+  rotate: true
+  xy: 444, 886
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_67
+  rotate: true
+  xy: 966, 886
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_68
+  rotate: false
+  xy: 1488, 726
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_69
+  rotate: false
+  xy: 444, 364
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_70
+  rotate: true
+  xy: 886, 444
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_71
+  rotate: true
+  xy: 1408, 284
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+nonTrans/CannonShot/Boom_72
+  rotate: true
+  xy: 886, 2
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+
+CannonBonus.png
+size: 1898,482
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trans/Bannister
+  rotate: true
+  xy: 563, 2
+  size: 478, 225
+  orig: 478, 225
+  offset: 0, 0
+  index: -1
+Trans/bonus2CollectBannerL
+  rotate: false
+  xy: 1286, 3
+  size: 293, 99
+  orig: 293, 99
+  offset: 0, 0
+  index: -1
+Trans/cannon0
+  rotate: true
+  xy: 790, 37
+  size: 305, 263
+  orig: 317, 284
+  offset: 4, 0
+  index: -1
+Trans/cannon20
+  rotate: false
+  xy: 1512, 234
+  size: 384, 246
+  orig: 384, 266
+  offset: 0, 0
+  index: -1
+Trans/canonSmokeL
+  rotate: false
+  xy: 2, 30
+  size: 559, 450
+  orig: 567, 505
+  offset: 4, 37
+  index: -1
+Trans/rippleV2
+  rotate: false
+  xy: 790, 344
+  size: 720, 136
+  orig: 720, 146
+  offset: 0, 0
+  index: -1
+Trans/ship1L
+  rotate: false
+  xy: 1286, 104
+  size: 186, 238
+  orig: 186, 241
+  offset: 0, 3
+  index: -1
+Trans/ship2L
+  rotate: false
+  xy: 1581, 5
+  size: 236, 227
+  orig: 236, 227
+  offset: 0, 0
+  index: -1
+Trans/ship3L
+  rotate: true
+  xy: 1055, 97
+  size: 245, 229
+  orig: 245, 229
+  offset: 0, 0
+  index: -1
+Trans/smallRipple
+  rotate: false
+  xy: 1055, 48
+  size: 166, 47
+  orig: 177, 71
+  offset: 6, 11
+  index: -1
+
+CannonBonus2.png
+size: 1955,784
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trans/Boom/Boom_01
+  rotate: false
+  xy: 1710, 32
+  size: 107, 54
+  orig: 190, 180
+  offset: 38, 6
+  index: -1
+Trans/Boom/Boom_02
+  rotate: false
+  xy: 110, 17
+  size: 107, 58
+  orig: 190, 180
+  offset: 38, 7
+  index: -1
+Trans/Boom/Boom_03
+  rotate: false
+  xy: 2, 10
+  size: 106, 65
+  orig: 190, 180
+  offset: 39, 9
+  index: -1
+Trans/Boom/Boom_04
+  rotate: false
+  xy: 341, 8
+  size: 120, 75
+  orig: 190, 180
+  offset: 36, 10
+  index: -1
+Trans/Boom/Boom_05
+  rotate: false
+  xy: 219, 4
+  size: 120, 79
+  orig: 190, 180
+  offset: 36, 12
+  index: -1
+Trans/Boom/Boom_06
+  rotate: false
+  xy: 1710, 88
+  size: 121, 84
+  orig: 190, 180
+  offset: 35, 14
+  index: -1
+Trans/Boom/Boom_07
+  rotate: true
+  xy: 1834, 85
+  size: 122, 97
+  orig: 190, 180
+  offset: 34, 11
+  index: -1
+Trans/Boom/Boom_08
+  rotate: true
+  xy: 1834, 209
+  size: 126, 97
+  orig: 190, 180
+  offset: 30, 16
+  index: -1
+Trans/Boom/Boom_09
+  rotate: false
+  xy: 463, 3
+  size: 128, 108
+  orig: 190, 180
+  offset: 28, 13
+  index: -1
+Trans/Boom/Boom_10
+  rotate: false
+  xy: 593, 3
+  size: 140, 123
+  orig: 190, 180
+  offset: 26, 10
+  index: -1
+Trans/Boom/Boom_11
+  rotate: true
+  xy: 1825, 491
+  size: 142, 128
+  orig: 190, 180
+  offset: 24, 6
+  index: -1
+Trans/Boom/Boom_12
+  rotate: false
+  xy: 1259, 10
+  size: 154, 132
+  orig: 190, 180
+  offset: 21, 2
+  index: -1
+Trans/Boom/Boom_13
+  rotate: true
+  xy: 1817, 635
+  size: 147, 135
+  orig: 190, 180
+  offset: 19, 2
+  index: -1
+Trans/Boom/Boom_14
+  rotate: false
+  xy: 1108, 2
+  size: 149, 137
+  orig: 190, 180
+  offset: 17, 2
+  index: -1
+Trans/Boom/Boom_15
+  rotate: true
+  xy: 1689, 174
+  size: 150, 143
+  orig: 190, 180
+  offset: 16, 0
+  index: -1
+Trans/Boom/Boom_16
+  rotate: true
+  xy: 1620, 326
+  size: 154, 143
+  orig: 190, 180
+  offset: 16, 3
+  index: -1
+Trans/Boom/Boom_17
+  rotate: true
+  xy: 1562, 19
+  size: 148, 146
+  orig: 190, 180
+  offset: 18, 2
+  index: -1
+Trans/Boom/Boom_18
+  rotate: false
+  xy: 1524, 482
+  size: 149, 149
+  orig: 190, 180
+  offset: 17, 0
+  index: -1
+Trans/Boom/Boom_19
+  rotate: true
+  xy: 1415, 9
+  size: 153, 145
+  orig: 190, 180
+  offset: 14, 2
+  index: -1
+Trans/Boom/Boom_20
+  rotate: false
+  xy: 1192, 481
+  size: 164, 148
+  orig: 190, 180
+  offset: 13, 1
+  index: -1
+Trans/Boom/Boom_21
+  rotate: true
+  xy: 1390, 164
+  size: 154, 151
+  orig: 190, 180
+  offset: 13, 0
+  index: -1
+Trans/Boom/Boom_22
+  rotate: false
+  xy: 1180, 631
+  size: 161, 151
+  orig: 190, 180
+  offset: 7, 0
+  index: -1
+Trans/Boom/Boom_23
+  rotate: false
+  xy: 1358, 482
+  size: 164, 147
+  orig: 190, 180
+  offset: 5, 3
+  index: -1
+Trans/Boom/Boom_24
+  rotate: false
+  xy: 1765, 337
+  size: 146, 146
+  orig: 190, 180
+  offset: 24, 2
+  index: -1
+Trans/Boom/Boom_25
+  rotate: false
+  xy: 1675, 485
+  size: 148, 148
+  orig: 190, 180
+  offset: 23, 1
+  index: -1
+Trans/Boom/Boom_26
+  rotate: false
+  xy: 1664, 635
+  size: 151, 147
+  orig: 190, 180
+  offset: 22, 1
+  index: -1
+Trans/Boom/Boom_27
+  rotate: true
+  xy: 1543, 169
+  size: 154, 144
+  orig: 190, 180
+  offset: 20, 6
+  index: -1
+Trans/Boom/Boom_28
+  rotate: false
+  xy: 1343, 631
+  size: 160, 151
+  orig: 190, 180
+  offset: 20, 0
+  index: -1
+Trans/Boom/Boom_29
+  rotate: true
+  xy: 1470, 325
+  size: 155, 148
+  orig: 190, 180
+  offset: 20, 5
+  index: -1
+Trans/Boom/Boom_30
+  rotate: false
+  xy: 1505, 633
+  size: 157, 149
+  orig: 190, 180
+  offset: 19, 5
+  index: -1
+Trans/Boom/Boom_31
+  rotate: false
+  xy: 1016, 630
+  size: 162, 152
+  orig: 190, 180
+  offset: 15, 4
+  index: -1
+Trans/Boom/Boom_32
+  rotate: true
+  xy: 1316, 320
+  size: 159, 152
+  orig: 190, 180
+  offset: 18, 5
+  index: -1
+Trans/Boom/Boom_33
+  rotate: true
+  xy: 1233, 144
+  size: 160, 155
+  orig: 190, 180
+  offset: 18, 4
+  index: -1
+Trans/Boom/Boom_34
+  rotate: false
+  xy: 861, 469
+  size: 161, 158
+  orig: 190, 180
+  offset: 17, 3
+  index: -1
+Trans/Boom/Boom_35
+  rotate: true
+  xy: 1155, 306
+  size: 161, 159
+  orig: 190, 180
+  offset: 16, 3
+  index: -1
+Trans/Boom/Boom_36
+  rotate: true
+  xy: 853, 629
+  size: 153, 161
+  orig: 190, 180
+  offset: 15, 3
+  index: -1
+Trans/Boom/Boom_37
+  rotate: true
+  xy: 902, 137
+  size: 155, 162
+  orig: 190, 180
+  offset: 15, 4
+  index: -1
+Trans/Boom/Boom_38
+  rotate: false
+  xy: 989, 303
+  size: 164, 164
+  orig: 190, 180
+  offset: 14, 4
+  index: -1
+Trans/Boom/Boom_39
+  rotate: true
+  xy: 1024, 469
+  size: 159, 166
+  orig: 190, 180
+  offset: 12, 3
+  index: -1
+Trans/Boom/Boom_40
+  rotate: true
+  xy: 1066, 141
+  size: 160, 165
+  orig: 190, 180
+  offset: 12, 6
+  index: -1
+Trans/Boom/Boom_41
+  rotate: false
+  xy: 669, 285
+  size: 160, 169
+  orig: 190, 180
+  offset: 12, 4
+  index: -1
+Trans/Boom/Boom_42
+  rotate: false
+  xy: 345, 266
+  size: 163, 170
+  orig: 190, 180
+  offset: 12, 4
+  index: -1
+Trans/Boom/Boom_43
+  rotate: false
+  xy: 340, 609
+  size: 164, 173
+  orig: 190, 180
+  offset: 12, 3
+  index: -1
+Trans/Boom/Boom_44
+  rotate: false
+  xy: 340, 438
+  size: 165, 169
+  orig: 190, 180
+  offset: 12, 6
+  index: -1
+Trans/Boom/Boom_45
+  rotate: false
+  xy: 172, 429
+  size: 166, 175
+  orig: 190, 180
+  offset: 12, 4
+  index: -1
+Trans/Boom/Boom_46
+  rotate: true
+  xy: 172, 85
+  size: 166, 176
+  orig: 190, 180
+  offset: 12, 4
+  index: -1
+Trans/Boom/Boom_47
+  rotate: false
+  xy: 2, 77
+  size: 168, 174
+  orig: 190, 180
+  offset: 11, 6
+  index: -1
+Trans/Boom/Boom_48
+  rotate: false
+  xy: 2, 606
+  size: 168, 176
+  orig: 190, 180
+  offset: 11, 4
+  index: -1
+Trans/Boom/Boom_49
+  rotate: true
+  xy: 506, 613
+  size: 169, 164
+  orig: 190, 180
+  offset: 11, 16
+  index: -1
+Trans/Boom/Boom_50
+  rotate: false
+  xy: 174, 257
+  size: 169, 170
+  orig: 190, 180
+  offset: 12, 10
+  index: -1
+Trans/Boom/Boom_51
+  rotate: false
+  xy: 2, 253
+  size: 170, 173
+  orig: 190, 180
+  offset: 11, 7
+  index: -1
+Trans/Boom/Boom_52
+  rotate: false
+  xy: 687, 469
+  size: 172, 157
+  orig: 190, 180
+  offset: 10, 22
+  index: -1
+Trans/Boom/Boom_53
+  rotate: true
+  xy: 831, 294
+  size: 173, 156
+  orig: 190, 180
+  offset: 10, 23
+  index: -1
+Trans/Boom/Boom_54
+  rotate: true
+  xy: 510, 280
+  size: 174, 157
+  orig: 190, 180
+  offset: 9, 21
+  index: -1
+Trans/Boom/Boom_55
+  rotate: true
+  xy: 172, 606
+  size: 176, 166
+  orig: 190, 180
+  offset: 8, 12
+  index: -1
+Trans/Boom/Boom_56
+  rotate: true
+  xy: 2, 428
+  size: 176, 168
+  orig: 190, 180
+  offset: 8, 10
+  index: -1
+Trans/Boom/Boom_57
+  rotate: false
+  xy: 507, 456
+  size: 178, 155
+  orig: 190, 180
+  offset: 7, 23
+  index: -1
+Trans/Boom/Boom_58
+  rotate: false
+  xy: 672, 628
+  size: 179, 154
+  orig: 190, 180
+  offset: 6, 24
+  index: -1
+Trans/Boom/Boom_59
+  rotate: false
+  xy: 350, 113
+  size: 181, 151
+  orig: 190, 180
+  offset: 5, 26
+  index: -1
+Trans/Boom/Boom_60
+  rotate: false
+  xy: 533, 128
+  size: 182, 150
+  orig: 190, 180
+  offset: 4, 27
+  index: -1
+Trans/Boom/Boom_61
+  rotate: false
+  xy: 717, 137
+  size: 183, 146
+  orig: 190, 180
+  offset: 3, 27
+  index: -1
+Trans/Boom/Boom_62
+  rotate: false
+  xy: 735, 4
+  size: 184, 131
+  orig: 190, 180
+  offset: 3, 42
+  index: -1
+Trans/Boom/Boom_63
+  rotate: false
+  xy: 921, 5
+  size: 185, 130
+  orig: 190, 180
+  offset: 2, 44
+  index: -1
+
+CannonBonus3.png
+size: 932,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trans/X/X_01
+  rotate: false
+  xy: 696, 42
+  size: 17, 20
+  orig: 82, 120
+  offset: 47, 99
+  index: -1
+Trans/X/X_02
+  rotate: false
+  xy: 892, 38
+  size: 28, 41
+  orig: 82, 120
+  offset: 36, 78
+  index: -1
+Trans/X/X_03
+  rotate: false
+  xy: 892, 81
+  size: 38, 61
+  orig: 82, 120
+  offset: 26, 58
+  index: -1
+Trans/X/X_04
+  rotate: true
+  xy: 616, 15
+  size: 47, 78
+  orig: 82, 120
+  offset: 17, 41
+  index: -1
+Trans/X/X_05
+  rotate: true
+  xy: 522, 8
+  size: 54, 92
+  orig: 82, 120
+  offset: 10, 27
+  index: -1
+Trans/X/X_06
+  rotate: true
+  xy: 418, 3
+  size: 59, 102
+  orig: 82, 120
+  offset: 5, 17
+  index: -1
+Trans/X/X_07
+  rotate: false
+  xy: 830, 40
+  size: 60, 102
+  orig: 82, 120
+  offset: 4, 17
+  index: -1
+Trans/X/X_08
+  rotate: true
+  xy: 716, 11
+  size: 60, 102
+  orig: 82, 120
+  offset: 4, 17
+  index: -1
+Trans/X/X_09
+  rotate: true
+  xy: 2, 2
+  size: 60, 102
+  orig: 82, 120
+  offset: 4, 17
+  index: -1
+Trans/X/X_10
+  rotate: true
+  xy: 106, 2
+  size: 60, 102
+  orig: 82, 120
+  offset: 4, 17
+  index: -1
+Trans/X/X_11
+  rotate: true
+  xy: 210, 2
+  size: 60, 102
+  orig: 82, 120
+  offset: 4, 17
+  index: -1
+Trans/X/X_12
+  rotate: true
+  xy: 314, 2
+  size: 60, 102
+  orig: 82, 120
+  offset: 4, 17
+  index: -1
+Trans/X/X_13
+  rotate: true
+  xy: 716, 73
+  size: 69, 112
+  orig: 82, 120
+  offset: 4, 7
+  index: -1
+Trans/X/X_14
+  rotate: true
+  xy: 2, 64
+  size: 78, 117
+  orig: 82, 120
+  offset: 4, 2
+  index: -1
+Trans/X/X_15
+  rotate: true
+  xy: 121, 64
+  size: 78, 117
+  orig: 82, 120
+  offset: 4, 2
+  index: -1
+Trans/X/X_16
+  rotate: true
+  xy: 240, 64
+  size: 78, 117
+  orig: 82, 120
+  offset: 4, 2
+  index: -1
+Trans/X/X_17
+  rotate: true
+  xy: 359, 64
+  size: 78, 117
+  orig: 82, 120
+  offset: 4, 2
+  index: -1
+Trans/X/X_18
+  rotate: true
+  xy: 478, 64
+  size: 78, 117
+  orig: 82, 120
+  offset: 4, 2
+  index: -1
+Trans/X/X_19
+  rotate: true
+  xy: 597, 64
+  size: 78, 117
+  orig: 82, 120
+  offset: 4, 2
+  index: -1

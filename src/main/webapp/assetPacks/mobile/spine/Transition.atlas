@@ -1,0 +1,54 @@
+
+Transition.jpg
+size: 782,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/foam
+  rotate: true
+  xy: 724, 139
+  size: 252, 56
+  orig: 252, 56
+  offset: 0, 0
+  index: -1
+nonTrans/ripple
+  rotate: false
+  xy: 2, 2
+  size: 574, 108
+  orig: 574, 108
+  offset: 0, 0
+  index: -1
+nonTrans/water
+  rotate: false
+  xy: 2, 112
+  size: 720, 279
+  orig: 720, 279
+  offset: 0, 0
+  index: -1
+
+Transition.png
+size: 798,1067
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/Icon_Cannon
+  rotate: false
+  xy: 400, 13
+  size: 396, 398
+  orig: 398, 409
+  offset: 0, 0
+  index: -1
+trans/Icon_Ship
+  rotate: false
+  xy: 2, 2
+  size: 396, 409
+  orig: 398, 409
+  offset: 2, 0
+  index: -1
+trans/burst
+  rotate: false
+  xy: 2, 413
+  size: 669, 652
+  orig: 680, 655
+  offset: 4, 3
+  index: -1

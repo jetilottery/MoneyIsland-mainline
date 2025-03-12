@@ -1,0 +1,68 @@
+
+BaseGame2.jpg
+size: 1626,1444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/LandscapeBG
+  rotate: true
+  xy: 2, 2
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+nonTrans/baseGameBgP
+  rotate: false
+  xy: 814, 2
+  size: 810, 1440
+  orig: 810, 1440
+  offset: 0, 0
+  index: -1
+
+BaseGame2.png
+size: 1444,555
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/Fern1
+  rotate: false
+  xy: 2, 2
+  size: 466, 457
+  orig: 466, 457
+  offset: 0, 0
+  index: -1
+trans/Fern2
+  rotate: false
+  xy: 1255, 310
+  size: 158, 149
+  orig: 158, 149
+  offset: 0, 0
+  index: -1
+trans/Grass1
+  rotate: false
+  xy: 993, 85
+  size: 169, 197
+  orig: 169, 197
+  offset: 0, 0
+  index: -1
+trans/Grass2
+  rotate: false
+  xy: 993, 284
+  size: 260, 175
+  orig: 260, 175
+  offset: 0, 0
+  index: -1
+trans/Tree1
+  rotate: true
+  xy: 470, 76
+  size: 383, 521
+  orig: 383, 521
+  offset: 0, 0
+  index: -1
+trans/waves
+  rotate: false
+  xy: 2, 461
+  size: 1440, 92
+  orig: 1440, 141
+  offset: 0, 40
+  index: -1

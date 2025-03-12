@@ -1,0 +1,103 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "est de {@minRTP} %",
+        "RTPrange": "est compris entre {@minRTP} % et {@maxRTP} %",
+        "paybackTitle": "Remboursement escompté",
+        "paybackBody": "Pour ce jeu, le remboursement escompté théorique sur le long terme est de {RTP}.",
+        "subheading": "Coût de la mise : {ticketCost}",
+        "prizeLevel": "Niveaux de prix",
+        "prizeValue": "Valeurs de prix",
+        "description": "Description",
+        "instantWin": "Gain instantané",
+        "islandBonus": "Gain jeu extra Cartes au Trésor (I{lvl})",
+        "cannonBonus": "Gain jeu extra Canon",
+        "overallChances": "Il y a globalement 1 chance sur {odds} de gagner un prix lors de chaque tour.",
+        "prizeDivision": "Répartition des prix",
+        "prizeRemaining": "Prix approximatifs restants",
+        "oddsPerPlay": "Chances par tour"
+    },
+    "title": "Treasury Island",
+    "MenuCommand":
+    {
+        "price": "Prix",
+        "stake": "Mise",
+        "howToPlay": "Aide",
+        "paytable": "Table des paiements",
+        "close": "Fermer",
+        "audio":
+        {
+            "sound": "Son",
+            "on": "ON",
+            "off": "OFF"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Erreur : ",
+        "genericErrorText": "Une erreur interne s'est produite. QUITTEZ et relancez le jeu."
+    },
+    "Game":
+    {
+        "footer_balance": "BALANCE",
+        "footer_ticketCost": "MISE",
+        "ticketSelect_ticketCost": "MISE",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "DÉMO "
+        },
+        "footer_win":
+        {
+            "BUY": "GAIN",
+            "TRY": "GAIN DÉMO"
+        },
+        "button_buy":
+        {
+            "BUY": "ACHETER",
+            "TRY": "DÉMO"
+        },
+        "button_try": "DÉMO",
+        "button_retry": "RÉESSAYER",
+        "button_continue": "CONTINUER",
+        "button_moveToMoney": "ACHETER",
+        "button_autoPlay": "TOUT\nRÉVÉLER",
+        "button_start": "GO",
+        "button_stop": "ARRÊTER",
+        "button_playAgain":
+        {
+            "BUY": "ACHETER",
+            "TRY": "DÉMO"
+        },
+        "button_tryAgain": "DÉMO",
+        "button_ok": "OK",
+        "button_exit": "QUITTER",
+        "wb_button_start": "GO",
+        "error_button_exit": "QUITTER",
+        "error_title": "ERREUR",
+        "message_nonWin": "DOMMAGE,\nPAS DE GAIN.",
+        "message_win":
+        {
+            "BUY": "BRAVO !\nVOUS GAGNEZ",
+            "TRY": "UNE DÉMO DE JEU\nNE DONNE DROIT À AUCUN GAIN."
+        },
+        "picksLeft": "Choix restants : {0}",
+        "cannonMultipler": "+{0}x",
+        "cannonMultiplerTitle": "{0}x",
+        "cannonSummaryTotalWin": "GAIN TOTAL",
+        "cannonCollect": "\u00a0COLLECTE\u00a0",
+        "youWon": "GAIN JEU EXTRA {0}",
+        "howToPlay": "COMMENT JOUER ?",
+        "cannonBonus": "JEU EXTRA CANON",
+        "islandBonus": "JEU EXTRA CARTES AU TRÉSOR",
+        "islandTutorial": "Sélectionnez 2 des 9 cases sur la carte.\n\nCollectez suffisamment de pièces pour débloquer le trésor, gagner un gain instantané et accéder à la carte au trésor suivante.",
+        "pointsRemaining": "PIÈCES POUR\nDÉBLOQUER LE TRÉSOR",
+        "islandSquarePoints": "PIÈCES",
+        "page1": "Sélectionnez 8 des 16 coffres.\n\nDécouvrez des montants de gains instantanés ou collectez des symboles de jeu extra !",
+        "page2": "\u00a0\u00a0\u00a0Collectez 3 {islandSymbol} pour accéder au jeu extra Cartes au trésor.{line1complete}\nSélectionnez 2 cases sur chaque carte pour collecter des pièces.\n\nSi vous découvrez le nombre de pièces requis, vous gagnez un gain instantané et accédez à la carte suivante.\n\nSi vous ne collectez pas suffisamment de pièces, le jeu s’arrête et vous gagnez le montant de gain acquis à la carte précédente.",
+        "page3": "Collectez 3 {cannonSymbol} pour accéder au jeu extra Canon.{line1complete}\nSélectionnez les navires pour collecter un gain instantané ou un multiplicateur de gain. Le jeu s’arrête quand le symbole COLLECTE est découvert.",
+        "winUpTo": "GAGNEZ JUSQU'À {0} ",
+        "revealForBonus": "DÉVOILEZ UNE PIÈCE D'OR\nPOUR ACCÉDER À LA PARTIE BONUS"
+    }
+}

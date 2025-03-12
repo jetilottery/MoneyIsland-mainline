@@ -1,0 +1,103 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP} %",
+        "RTPrange": "{@minRTP} % bis {@maxRTP} %",
+        "paybackTitle": "Erwartete Rückzahlung",
+        "paybackBody": "Für dieses Spiel beträgt die langfristig erwartete Rückzahlung {RTP}.",
+        "subheading": "Einsatz: {ticketCost}",
+        "prizeLevel": "Preislevels",
+        "prizeValue": "Preis-Wert",
+        "description": "Beschreibung",
+        "instantWin": "Sofortgewinn",
+        "islandBonus": "Gewinn Extra-Spiel Schatzkarten (I{lvl})",
+        "cannonBonus": "Gewinn Extra-Spiel Kanone",
+        "overallChances": "Die Chance, bei einem Spiel einen Preis zu gewinnen, beträgt insgesamt 1 zu {odds}.",
+        "prizeDivision": "Preis Aufteilung",
+        "prizeRemaining": "Ungefähr verbleibende Preise",
+        "oddsPerPlay": "Chancen pro Spiel"
+    },
+    "title": "Treasury Island",
+    "MenuCommand":
+    {
+        "price": "Preis",
+        "stake": "Einsatz",
+        "howToPlay": "Hilfe",
+        "paytable": "Légende",
+        "close": "Schließen",
+        "audio":
+        {
+            "sound": "Sound",
+            "on": "Ein",
+            "off": "Aus"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Fehler: ",
+        "genericErrorText": "Es ist ein interner Fehler aufgetreten. BEENDEN und neu starten."
+    },
+    "Game":
+    {
+        "footer_balance": "BALANCE",
+        "footer_ticketCost": "EINSATZ",
+        "ticketSelect_ticketCost": "EINSATZ",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "DEMO "
+        },
+        "footer_win":
+        {
+            "BUY": "GEWINN",
+            "TRY": "DEMO-GEWINN"
+        },
+        "button_buy":
+        {
+            "BUY": "KAUFEN",
+            "TRY": "DEMO"
+        },
+        "button_try": "DEMO",
+        "button_retry": "ERNEUT VERSUCHEN",
+        "button_continue": "WEITER",
+        "button_moveToMoney": "KAUFEN",
+        "button_autoPlay": "ALLES\nAUFDECKEN",
+        "button_start": "GO",
+        "button_stop": "STOPP",
+        "button_playAgain":
+        {
+            "BUY": "KAUFEN",
+            "TRY": "DEMO"
+        },
+        "button_tryAgain": "DEMO",
+        "button_ok": "OK",
+        "button_exit": "BEENDEN",
+        "wb_button_start": "GO",
+        "error_button_exit": "BEENDEN",
+        "error_title": "FEHLER",
+        "message_nonWin": "SCHADE,\nKEIN GEWINN",
+        "message_win":
+        {
+            "BUY": "GLÜCKWUNSCH!\nSIE GEWINNEN",
+            "TRY": "EIN DEMOSPIEL BERECHTIGT\nZU KEINERLEI GEWINN."
+        },
+        "picksLeft": "Verbleibende Auswahlen: {0}",
+        "cannonMultipler": "+{0}x",
+        "cannonMultiplerTitle": "{0}x",
+        "cannonSummaryTotalWin": "GESAMTGEWINN",
+        "cannonCollect": "\u00a0SAMMELN\u00a0",
+        "youWon": "GEWINN EXTRA-SPIEL {0}",
+        "howToPlay": "SPIELANLEITUNG",
+        "cannonBonus": "EXTRA-SPIEL KANONE",
+        "islandBonus": "EXTRA-SPIEL SCHATZKARTEN",
+        "islandTutorial": "Wählen Sie 2 der 9 Kästchen auf der Karte aus.\n\nSammeln Sie genug Münzen, um den Schatz zu entsperren, einen Sofortgewinn zu erzielen und zur nächsten Schatzkarte zu gelangen.",
+        "pointsRemaining": "MÜNZEN ZUM\nENTSPERREN DES SCHATZES",
+        "islandSquarePoints": "MÜNZEN",
+        "page1": "Wählen Sie 8 der 16 Schatztruhen aus.\n\nDecken Sie Sofortgewinnbeträge auf oder sammeln Sie Extra-Spielsymbole!",
+        "page2": "\u00a0\u00a0\u00a0Sammeln Sie 3{islandSymbol}, um zum Extra-Spiel Schatzkarten zu gelangen.{line1complete}\n\nWählen Sie 2 Kästchen auf jeder Karte, um Münzen zu sammeln. Wenn\nSie die erforderliche Anzahl an Münzen aufdecken, erhalten Sie einen Sofortgewinn und gelangen zur nächsten Karte.\n\nWenn Sie nicht genügend Münzen sammeln, endet das Spiel und Sie erhalten den bei der vorherigen Karte erworbenen Gewinnbetrag.",
+        "page3": "Sammeln Sie 3{cannonSymbol}, um zum Extra-Spiel Kanone zu gelangen.{line1complete}\n\nWählen Sie die Schiffe aus, um einen Sofortgewinn oder einen Gewinnmultiplikator zu sammeln. Das Spiel endet, wenn das SAMMELN-Symbol aufgedeckt wird.",
+        "winUpTo": "GEWINNEN SIE BIS ZU {0}",
+        "revealForBonus": "DECKEN SIE EINE GOLDMÜNZE AUF,\nUM DAS BONUSSPIEL ZU STARTEN"
+    }
+}

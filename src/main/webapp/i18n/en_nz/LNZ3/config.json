@@ -1,0 +1,8 @@
+{
+    "showHowToPlayOnLoad": false,
+    "autoPlayPlayerNumberInterval": 3,
+    "autoPlayCannonBonusInterval": 3,
+    "suppressNonWinResultPlaque": false,
+    "showResultScreen": true,
+    "consoleEnabledDuringPlay": true
+}

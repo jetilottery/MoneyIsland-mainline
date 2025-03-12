@@ -1,0 +1,102 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "%{@minRTP}'dir",
+        "RTPrange": "%{@minRTP}'dir ila %{@maxRTP}'dir arasında",
+        "paybackTitle": "Beklenen Kazanç Oranı",
+        "paybackBody": "Bu oyun için Oyuncuya Geri Dönüş Ortalaması (RTP) {RTP}.",
+        "subheading": "Bilet Tutarı: {ticketCost}",
+        "prizeLevel": "Ödül Seviyesi",
+        "prizeValue": "Ödül Değeri",
+        "description": "Açıklama",
+        "instantWin": "Anında Kazanç Ödülü",
+        "islandBonus": "Ada Bonusu Ödülü (I{lvl})",
+        "cannonBonus": "Top Bonusu Ödülü",
+        "overallChances": "Oyun başına ödül kazanma şansı toplamda {odds} oyunda 1'dir.",
+        "prizeDivision": "Ödül Dağılımı",
+        "prizeRemaining": "Kalan Yaklaşık Ödül Sayısı",
+        "oddsPerPlay": "Oyun Başına Oranlar"
+    },
+    "title": "ŞABLON",
+    "MenuCommand":
+    {
+        "price": "Fiyat",
+        "stake": "Yatırılan Miktar",
+        "howToPlay": "Yardım",
+        "paytable": "Ödeme Tablosu",
+        "close": "Kapat",
+        "audio":
+        {
+            "sound": "Ses",
+            "on": "Açık",
+            "off": "Kapalı"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Hata: ",
+        "genericErrorText": "İç kaynaklı bir hata oluştu. ÇIKIN ve oyunu yeniden başlatın."
+    },
+    "Game":
+    {
+        "footer_balance": "BAKİYE",
+        "footer_ticketCost": "OYUN TUTARI",
+        "ticketSelect_ticketCost": "OYUN TUTARI",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "OYNA "
+        },
+        "footer_win":
+        {
+            "BUY": "KAZANÇ",
+            "TRY": "DEMO KAZANCI"
+        },
+        "button_buy":
+        {
+            "BUY": "OYNA",
+            "TRY": "OYNA"
+        },
+        "button_try": "OYNA",
+        "button_retry": "YENİDEN DENE",
+        "button_continue": "DEVAM ET",
+        "button_moveToMoney": "GERÇEK OYUN MODUNA GEÇ",
+        "button_autoPlay": "TÜMÜNÜ AÇ",
+        "button_start": "BAŞLA",
+        "button_stop": "DURDUR",
+        "button_playAgain":
+        {
+            "BUY": "TEKRAR OYNA",
+            "TRY": "TEKRAR DENE"
+        },
+        "button_tryAgain": "TEKRAR DENE",
+        "button_ok": "TAMAM",
+        "button_exit": "ÇIK",
+        "error_button_exit": "ÇIK",
+        "error_title": "HATA",
+        "message_nonWin": "TEKRAR\nDENEYİN",
+        "message_win":
+        {
+            "BUY": "TEBRİKLER! KAZANCIN",
+            "TRY": "TEBRİKLER! KAZANCIN"
+        },
+        "picksLeft": "KALAN SEÇİM: {0}",
+        "cannonMultipler": "+{0}x",
+        "cannonMultiplerTitle": "{0}x",
+        "cannonSummaryTotalWin": "TOPLAM KAZANÇ",
+        "cannonCollect": "TOPLA",
+        "youWon": "BONUS KAZANCI {0}",
+        "howToPlay": "OYUN KURALLARI",
+        "cannonBonus": "TOP BONUSU",
+        "islandBonus": "ADA BONUSU",
+        "islandTutorial": "Sikkeleri aramaya başlamak için harita üzerinde iki konum seçin.\n\nHazinenin kilidini açmak, ada ödülünü kazanmak ve bir sonraki adaya geçmek için yeterli miktarda sikke toplayın.",
+        "pointsRemaining": "HAZİNENİN KİLİDİNİ\nAÇACAK SİKKELER",
+        "islandSquarePoints": "SİKKELER",
+        "page1": "HAZİNEYİ BULMAK İÇİN 16 SANDİKTAN 8'İNİ SEÇİN.\n BİR ÖDÜL TUTARİNİ AÇİN VE O ÖDÜLÜ ANİNDA KAZANİN.\n BONUS SEMBOLLERİNİ TOPLAYARAK BİR BONUS OYUNU BAŞLATİN! ",
+        "page2": "ADA BONUSUNU BAŞLATMAK İÇİN 3 {islandSymbol} TOPLAYİN.{line1complete}\n SİKKELERİ AÇMAK İÇİN HER ADA HARİTASİNDA 2 KARE SEÇİN. ADA HAZİNESİNİ KAZANARAK BİR SONRAKİ ADAYA GİTMEK İÇİN YETERLİ MİKTARDA SİKKE TOPLAYİN.\n YALNİZCA TAMAMLANAN SON ADANİN ÖDÜLÜ KAZANİLİR. BİR ADA İÇİN GEREKLİ SAYİDA SİKKE TOPLANMADİĞİNDA VEYA SON ADANİN ÖDÜLÜ KAZANİLDİĞİNDA BONUS SONA ERER.",
+        "page3": "ADA BONUSUNU TETİKLEMEK İÇİN 3 {cannonSymbol} TOPLAYİN.{line1complete}\n\n BİR NAKİT ÖDÜLÜ VEYA ÇARPAN AÇMAK İÇİN GEMİLERİ SEÇİN.\n BONUSU BİTİRMEK İÇİN TOPLA SEMBOLÜNÜ AÇİN.",
+        "winUpTo": "{0} KALAN SEÇİM: 8",
+        "revealForBonus": "BONUS OYUNUNA GİRMEK İÇİN\nBİR ALTIN SİKKE AÇ"
+    }
+}

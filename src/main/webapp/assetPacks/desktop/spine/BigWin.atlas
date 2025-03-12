@@ -1,0 +1,275 @@
+
+BigWin.jpg
+size: 1321,1433
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/BurstRay
+  rotate: false
+  xy: 2, 2
+  size: 1042, 780
+  orig: 1042, 780
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinCircleL
+  rotate: false
+  xy: 2, 784
+  size: 1317, 647
+  orig: 1440, 810
+  offset: 37, 163
+  index: -1
+
+BigWin2.jpg
+size: 1444,814
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/totalWinGradient
+  rotate: false
+  xy: 2, 2
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+
+BigWin3.jpg
+size: 1958,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/PlaqueSheen/PSweep_21
+  rotate: false
+  xy: 2, 1707
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_22
+  rotate: false
+  xy: 2, 1707
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_23
+  rotate: false
+  xy: 2, 1707
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_24
+  rotate: false
+  xy: 2, 1707
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_48
+  rotate: false
+  xy: 2, 1707
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_49
+  rotate: false
+  xy: 2, 1707
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_50
+  rotate: false
+  xy: 2, 1707
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_51
+  rotate: false
+  xy: 2, 1707
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_25
+  rotate: false
+  xy: 2, 1366
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_26
+  rotate: false
+  xy: 654, 1707
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_27
+  rotate: false
+  xy: 2, 1025
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_28
+  rotate: false
+  xy: 654, 1366
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_29
+  rotate: false
+  xy: 1306, 1707
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_30
+  rotate: false
+  xy: 2, 684
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_31
+  rotate: false
+  xy: 654, 1025
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_32
+  rotate: false
+  xy: 1306, 1366
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_33
+  rotate: false
+  xy: 2, 343
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_34
+  rotate: false
+  xy: 2, 2
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_35
+  rotate: false
+  xy: 654, 684
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_36
+  rotate: false
+  xy: 1306, 1025
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_37
+  rotate: false
+  xy: 654, 343
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_38
+  rotate: false
+  xy: 654, 2
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_39
+  rotate: false
+  xy: 1306, 684
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_40
+  rotate: false
+  xy: 1306, 343
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_41
+  rotate: false
+  xy: 1306, 2
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+
+BigWin4.jpg
+size: 1958,684
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/PlaqueSheen/PSweep_42
+  rotate: false
+  xy: 2, 343
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_43
+  rotate: false
+  xy: 2, 2
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_44
+  rotate: false
+  xy: 654, 343
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_45
+  rotate: false
+  xy: 654, 2
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_46
+  rotate: false
+  xy: 1306, 343
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+nonTrans/PlaqueSheen/PSweep_47
+  rotate: false
+  xy: 1306, 2
+  size: 650, 339
+  orig: 650, 339
+  offset: 0, 0
+  index: -1
+
+BigWin.png
+size: 637,334
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trans/totalWinBannerP
+  rotate: false
+  xy: 2, 2
+  size: 633, 330
+  orig: 633, 330
+  offset: 0, 0
+  index: -1

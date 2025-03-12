@@ -1,0 +1,92 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "is {@minRTP}%",
+    "RTPrange": "is from {@minRTP}% to {@maxRTP}%",
+    "paybackTitle": "Expected Payback",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback {RTP}.",
+    "subheading": "Ticket Cost: {ticketCost}",
+    "prizeLevel": "Prize Level",
+    "prizeValue": "Prize Value",
+    "description": "Description",
+    "instantWin": "Instant Win Prize",
+    "islandBonus": "Island Bonus Prize (I{lvl})",
+    "cannonBonus": "Cannon Bonus Prize",
+    "overallChances": "There is a 1 in {odds} overall chance of winning a prize on each play.",
+    "prizeDivision": "Prize Division",
+    "prizeRemaining": "Approximate Prizes Remaining",
+    "oddsPerPlay": "Odds Per Play"
+  },
+  "title": "TEMPLATE",
+  "MenuCommand": {
+    "price": "Price",
+    "stake": "Stake",
+    "howToPlay": "Help",
+    "paytable": "Paytable",
+    "close": "Close",
+    "audio": {
+      "sound": "Sound",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Error: ",
+    "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+  },
+  "Game": {
+    "footer_balance": "Balance:",
+    "footer_ticketCost": "Ticket Cost:",
+    "ticketSelect_ticketCost": "TICKET COST",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "DEMO "
+    },
+    "footer_win": {
+      "BUY": "Wins:",
+      "TRY": "Demo Wins:"
+    },
+    "button_buy": {
+      "BUY": "BUY",
+      "TRY": "TRY"
+    },
+    "button_try": "TRY",
+    "button_retry": "RETRY",
+    "button_continue": "CONTINUE",
+    "button_moveToMoney": "PLAY WITH MONEY",
+    "button_autoPlay": "AUTO REVEAL",
+    "button_start": "START",
+    "button_stop": "STOP",
+    "button_playAgain": {
+      "BUY": "PLAY AGAIN",
+      "TRY": "TRY AGAIN"
+    },
+    "button_tryAgain": "TRY AGAIN",
+    "button_ok": "OK",
+    "button_exit": "EXIT",
+    "error_button_exit": "EXIT",
+    "error_title": "ERROR",
+    "message_nonWin": "NOT A WINNER.\nBETTER LUCK NEXT TIME",
+    "message_win": {
+      "BUY": "CONGRATULATIONS!\nYOU HAVE WON",
+      "TRY": "THANKS FOR TRYING!\nYOU COULD HAVE WON"
+    },
+    "picksLeft": "Picks left: {0}",
+    "cannonMultipler": "+{0}x",
+    "cannonMultiplerTitle": "{0}x",
+    "cannonSummaryTotalWin": "TOTAL WIN",
+    "cannonCollect": "COLLECT",
+    "youWon": "BONUS WIN {0}",
+    "howToPlay": "How to Play",
+    "cannonBonus": "Cannon Bonus",
+    "islandBonus": "Island Bonus",
+    "islandTutorial": "Select two positions on the map to start searching for coins.\n\nCollect enough coins to unlock the treasure, win the island’s prize, and advance to the next island.",
+    "pointsRemaining": "COINS TO\nUNLOCK TREASURE",
+    "islandSquarePoints": "COINS",
+    "page1": "Select 8 of 16 chests in search of treasure.\nReveal a prize amount and win that prize instantly.\nCollect Bonus symbols to trigger a bonus game! ",
+    "page2": "Collect 3 {islandSymbol} to trigger the Island Bonus.{line1complete}\nSelect 2 squares on each island’s map to reveal coins. Collect enough coins to win the island’s treasure and travel to the next island.\nOnly the prize from the last island completed is awarded. The bonus ends when the required number of coins for an island are not collected, or if the last island’s prize is awarded.",
+    "page3": "Collect 3 {cannonSymbol} to trigger the Cannon Bonus.{line1complete}\n\nSelect ships to reveal a cash prize or a multiplier.\nReveal COLLECT to end the Bonus.",
+    "winUpTo": "WIN UP TO {0}!",
+    "revealForBonus": "REVEAL A GOLD COIN\nTO ENTER THE BONUS GAME"
+  }
+}

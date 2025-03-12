@@ -1,0 +1,103 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "is {@minRTP}%",
+        "RTPrange": "is van {@minRTP}% naar{@maxRTP}%",
+        "paybackTitle": "Verwachte uitbetaling",
+        "paybackBody": "Op lange termijn bedraagt de theoretisch verwachte uitbetaling van dit spel {RTP}.",
+        "subheading": "Inzet: {ticketCost}",
+        "prizeLevel": "Prijsniveau",
+        "prizeValue": "Prijswaarde",
+        "description": "Beschrijving",
+        "instantWin": "Onmiddellijke winst",
+        "islandBonus": "Winst extra spel Schatkaarten (I{lvl})",
+        "cannonBonus": "Winst extra spel Kanon",
+        "overallChances": "Er is een algemene winkans van 1 op {odds} bij elk spel.",
+        "prizeDivision": "Prijsverdeling",
+        "prizeRemaining": "Resterende prijzen (ongeveer)",
+        "oddsPerPlay": "Kansen per spel"
+    },
+    "title": "Treasury Island",
+    "MenuCommand":
+    {
+        "price": "Prijs",
+        "stake": "Inzet",
+        "howToPlay": "Hulp",
+        "paytable": "Prijzentabel",
+        "close": "Sluiten",
+        "audio":
+        {
+            "sound": "Geluid",
+            "on": "Aan",
+            "off": "Uit"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Fout: ",
+        "genericErrorText": "Er is een interne fout opgetreden. VERLAAT het spel en start het opnieuw op."
+    },
+    "Game":
+    {
+        "footer_balance": "BALANCE",
+        "footer_ticketCost": "INZET",
+        "ticketSelect_ticketCost": "INZET",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "DEMO "
+        },
+        "footer_win":
+        {
+            "BUY": "WINST",
+            "TRY": "DEMOWINST"
+        },
+        "button_buy":
+        {
+            "BUY": "KOPEN",
+            "TRY": "DEMO"
+        },
+        "button_try": "DEMO",
+        "button_retry": "OPNIEUW PROBEREN",
+        "button_continue": "DOORGAAN",
+        "button_moveToMoney": "KOPEN",
+        "button_autoPlay": "ALLES\nTONEN",
+        "button_start": "GO",
+        "button_stop": "STOPPEN",
+        "button_playAgain":
+        {
+            "BUY": "KOPEN",
+            "TRY": "DEMO"
+        },
+        "button_tryAgain": "DEMO",
+        "button_ok": "OK",
+        "button_exit": "VERLATEN",
+        "wb_button_start": "GO",
+        "error_button_exit": "VERLATEN",
+        "error_title": "FOUT",
+        "message_nonWin": "HELAAS,\nGEEN WINST",
+        "message_win":
+        {
+            "BUY": "PROFICIAT!\nJE WINT",
+            "TRY": "EEN DEMOSPEL GEEFT GEEN RECHT\nOP ENIGE WINST"
+        },
+        "picksLeft": "Keuzes over: {0}",
+        "cannonMultipler": "+{0}x",
+        "cannonMultiplerTitle": "{0}x",
+        "cannonSummaryTotalWin": "TOTALE WINST",
+        "cannonCollect": "\u00a0VERZAMEL\u00a0",
+        "youWon": "WINST EXTRA SPEL {0}",
+        "howToPlay": "HOE SPELEN?",
+        "cannonBonus": "EXTRA SPEL KANON",
+        "islandBonus": "EXTRA SPEL SCHATKAARTEN",
+        "islandTutorial": "Kies 2 van de 9 vakjes op de schatkaart.\n\nVerzamel voldoende geldstukken om de schat te deblokkeren, om een onmiddellijke winst op te strijken, en om toegang te krijgen tot de volgende schatkaart.",
+        "pointsRemaining": "GELDSTUKKEN OM\nDE SCHAT TE DEBLOKKEREN",
+        "islandSquarePoints": "GELDSTUKKEN",
+        "page1": "Kies 8 van de 16 kisten.\n\nOntdek onmiddellijke winstbedragen, of verzamel extra spelsymbolen !",
+        "page2": "Verzamel 3 {islandSymbol} om toegang te krijgen tot het extra spel Schatkaarten.{line1complete}\n\nKies op elke schatkaart 2 vakjes om geldstukken te verzamelen. Wanneer je het vereiste aantal geldstukken ontdekt, dan strijk je een onmiddellijke winst op, en krijg je toegang tot de volgende schatkaart.\n\nWanneer je onvoldoende geldstukken verzamelt, dan eindigt het spel, en dan win je het bedrag dat je op de vorige schatkaart hebt gekregen.",
+        "page3": "Verzamel 3 {cannonSymbol} om toegang te krijgen tot het extra spel Kanon.{line1complete}\n\nKies schepen om zo een onmiddellijke winst of een winstvermenigvuldiger te verzamelen. Het spel eindigt wanneer je het symbool VERZAMEL ontdekt.",
+        "winUpTo": "WIN TOT {0}",
+        "revealForBonus": "ONTHUL EEN GOUDEN MUNT\nOM HET BONUSSPEL TE ACTIVEREN"
+    }
+}

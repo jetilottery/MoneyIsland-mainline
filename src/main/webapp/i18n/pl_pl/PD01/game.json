@@ -1,0 +1,92 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "wynosi {@minRTP}%",
+    "RTPrange": "wynosi od {@minRTP}% do {@maxRTP}%",
+    "paybackTitle": "Oczekiwany zwrot",
+    "paybackBody": "Długoterminowy, teoretycznie oczekiwany zwrot tej gry wynosi {RTP}.",
+    "subheading": "Opłata za los: {ticketCost}",
+    "prizeLevel": "Stopień wygranej",
+    "prizeValue": "Wartość wygranej",
+    "description": "Opis",
+    "instantWin": "Nagroda natychmiastowej wygranej",
+    "islandBonus": "Nagroda bonusu wyspy (I {lvl})",
+    "cannonBonus": "Nagroda bonusowa działa",
+    "overallChances": "Łączna szansa wygrania nagrody dla danej stawki: 1 na {odds}.",
+    "prizeDivision": "Stopień wygranej",
+    "prizeRemaining": "Pozostała przybliżona liczba nagród",
+    "oddsPerPlay": "Szansa na wygraną"
+  },
+  "title": "SZABLON",
+  "MenuCommand": {
+    "price": "Cena",
+    "stake": "Stawka",
+    "howToPlay": "Zasady gry",
+    "paytable": "Tabela wypłat",
+    "close": "Zamknij",
+    "audio": {
+      "sound": "Dźwięk",
+      "on": "Wł.",
+      "off": "Wył."
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Błąd: ",
+    "genericErrorText": "Wystąpił błąd wewnętrzny. WYJDŹ i uruchom ponownie grę."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "OPŁATA ZA LOS",
+    "ticketSelect_ticketCost": "OPŁATA ZA LOS",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "DEMO"
+    },
+    "footer_win": {
+      "BUY": "WYGRANA",
+      "TRY": "WYGRANA DEMO"
+    },
+    "button_buy": {
+      "BUY": "PŁACĘ",
+      "TRY": "DEMO"
+    },
+    "button_try": "DEMO",
+    "button_retry": "SPRÓBUJ PONOWNIE",
+    "button_continue": "KONTYNUUJ",
+    "button_moveToMoney": "GRAJ ZA PIENIĄDZE",
+    "button_autoPlay": "AUTO",
+    "button_start": "START",
+    "button_stop": "STOP",
+    "button_playAgain": {
+      "BUY": "GRAJ PONOWNIE",
+      "TRY": "SPRÓBUJ PONOWNIE"
+    },
+    "button_tryAgain": "SPRÓBUJ PONOWNIE",
+    "button_ok": "OK",
+    "button_exit": "WYJDŹ",
+    "error_button_exit": "WYJDŹ",
+    "error_title": "BŁĄD",
+    "message_nonWin": "POWODZENIA\nNASTĘPNYM RAZEM",
+    "message_win": {
+      "BUY": "WYGRANA ŁĄCZNA",
+      "TRY": "DZIĘKUJEMY ZA GRĘ!\nMOŻNA BYŁO WYGRAĆ"
+    },
+    "picksLeft": "Pozostałe wybory: {0}",
+    "cannonMultipler": "+{0}x",
+    "cannonMultiplerTitle": "{0}x",
+    "cannonSummaryTotalWin": "WYGRANA ŁĄCZNA",
+    "cannonCollect": "ZBIERZ",
+    "youWon": "WYGRANA BONUSU {0}",
+    "howToPlay": "ZASADY GRY",
+    "cannonBonus": "STRZEL Z ARMATY",
+    "islandBonus": "WYSPY SKARBÓW",
+    "islandTutorial": "Wybierz dwa kwadraty na wyspie, aby rozpocząć poszukiwanie monet.\n\nZbierz odpowiednią liczbę monet, aby odblokować skarb, wygrać nagrodę wyspy i przejść na następną wyspę.",
+    "pointsRemaining": "MONETY DO\nODBLOKOWANIA SKARBU",
+    "islandSquarePoints": "MONET(Y)",
+    "page1": "Wybierz 8 z 16 skrzyń w poszukiwaniu wygranej.\nKwoty ukryte w skrzyniach to natychmiastowe wygrane.\nZbierz dodatkowe symbole, aby uruchomić rundę bonusową! ",
+    "page2": "Zbierz 3 {islandSymbol}, aby uruchomić rundę bonusową.{line1complete}\nWybierz 2 pola na mapie każdej wyspy, aby odkryć monety. Zbierz wystarczającą liczbę monet, aby wygrać skarb wyspy i przejść do następnej wyspy.\nPrzyznana zostanie nagroda tylko z ostatniej ukończonej wyspy. Bonus zakończy się, gdy nie zebrana zostanie wymagana liczba monet wyspy lub po przyznaniu nagrody ostatniej z wysp.",
+    "page3": "Zbierz 3 {cannonSymbol}, aby uruchomić rundę bonusową.{line1complete}\n\nStrzelaj do statków, aby odkryć nagrodę pieniężną lub mnożnik.\nBonus zakończy się po odkryciu symbolu ZBIERZ.",
+    "winUpTo": "WYGRAJ DO {0}!",
+    "revealForBonus": "ODKRYJ ZŁOTĄ MONETĘ,\nABY WEJŚĆ DO GRY BONUSOWEJ"
+  }
+}
