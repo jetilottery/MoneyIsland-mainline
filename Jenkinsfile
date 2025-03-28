@@ -1,3 +1,3 @@
-@Library('jet-pipelines') _
+@Library('jet-pipelines@feature/RemovePomExecutions') _
 games {
 }
