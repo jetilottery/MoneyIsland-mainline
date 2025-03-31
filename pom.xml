@@ -172,34 +172,7 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-deploy-plugin</artifactId>
-        <version>3.0.0-M1</version>
-        <executions>
-          <execution>
-            <id>default-deploy</id>
-            <phase>none</phase>
-            <goals>
-              <goal>deploy</goal>
-            </goals>
-          </execution>
-          <execution>
-            <id>deploy-manifest</id>
-            <goals>
-              <goal>deploy-file</goal>
-            </goals>
-            <phase>deploy</phase>
-            <configuration>
-              <file>&#xD;
-                                ${project.build.directory}/${project.artifactId}-manifest-${project.version}-${env.BUILD_NUMBER}.zip&#xD;
-                            </file>
-              <repositoryId>${targetrepositoryID}</repositoryId>
-              <url>${targetrepository}</url>
-              <groupId>${project.groupId}</groupId>
-              <artifactId>${project.artifactId}-manifest</artifactId>
-              <version>${project.version}</version>
-            </configuration>
-          </execution>
-        </executions>
-      </plugin>
+        <version>3.0.0-M1</version></plugin>
     </plugins>
     <pluginManagement>
       <plugins>
