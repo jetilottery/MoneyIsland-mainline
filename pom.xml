@@ -182,31 +182,6 @@
         <plugin>
           <groupId>org.codehaus.mojo</groupId>
           <artifactId>exec-maven-plugin</artifactId>
-          <executions>
-            <execution>
-              <id>lint-game</id>
-              <configuration>
-                <arguments>
-                  <argument>${dependencies.directory}/lib/jetBuilder/jetGameGruntCompiler/node_modules/grunt-cli/bin/grunt</argument>
-                  <argument>--gruntfile=${dependencies.directory}/lib/jetBuilder/jetGameGruntCompiler/Gruntfile.js</argument>
-                  <argument>--no-color</argument>
-                  <argument>lint-game-eslint:${buildType}</argument>
-                </arguments>
-              </configuration>
-            </execution>
-            <execution>
-              <id>prepare-game</id>
-              <configuration>
-                <arguments>
-                  <argument>${dependencies.directory}/lib/jetBuilder/jetGameGruntCompiler/node_modules/grunt-cli/bin/grunt</argument>
-                  <argument>--gruntfile=${dependencies.directory}/lib/jetBuilder/jetGameGruntCompiler/Gruntfile.js</argument>
-                  <argument>--no-color</argument>
-                  <argument>--gameVersion=${project.version}</argument>
-                  <argument>prepare-game-babel:${buildType}</argument>
-                </arguments>
-              </configuration>
-            </execution>
-          </executions>
         </plugin>
       </plugins>
     </pluginManagement>
